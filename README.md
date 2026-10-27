@@ -111,19 +111,12 @@
 <p><strong>✌ Mình thực hiện đam mê này là để phục vụ bản thân nên nó không chỉ là công nghệ thông tin, mà còn bao gồm cả đời sống cá nhân, vui chơi, giải trí, vì vậy mọi người hãy có thể ghé qua các mạng xã hội của mình để bình phẩm cũng như góp ý giúp mình hoàn thiện tốt hơn. </strong></p>
 <p>
   <!-- Tạo api người tham quan tại đây-->
-<p><strong>🤟 Mình có bao nhiêu vị khách ghé thăm rồi nhỉ: <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FNguyenDucQuan12%2FNguyenDucQuan12"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNguyenDucQuan12%2FNguyenDucQuan12&label=Kh%C3%A1ch%20tham%20quan&labelColor=%2337d67a&countColor=%23ba68c8&style=plastic" /></a></strong></p>
+path=https%3A%2F%2Fgithub.com%2FNguyenDucQuan12%2FNguyenDucQuan12&label=Kh%C3%A1ch%20tham%20quan&labelColor=%2337d67a&countColor=%23ba68c8&style=plastic" /></a></strong></p>
 <p>
 <p><strong>📞 Các bạn có thể liên lạc với mình thông qua các đường link phía trên, xin cảm ơn đã đọc (^_<)〜☆ </strong></p>
 </p>
-<p>
-  <a href="https://youtu.be/LUKM7nshZ6Q?si=HMhz4EliOZ6O1PNz" target="_blank">
-    <strong> 🚸 Tham khảo cách thực hiện trang giới thiệu GitHub tại đây || See how to make a GitHub about page here 🚸</strong>
-  </a>
-</p>
+
 <br><br><br><br>
-<h2 align="center">❤️ My Favorites Quote ❤️</h2>
-<h2 align="center"> 𝑽𝒊̀ 𝒕𝒐̂̉ 𝒒𝒖𝒐̂́𝒄 𝒙𝒂̃ 𝒉𝒐̣̂𝒊 𝒄𝒉𝒖̉ 𝒏𝒈𝒉𝒊̃𝒂, 𝒗𝒊̀ 𝒍𝒚́ 𝒕𝒖̛𝒐̛̉𝒏𝒈 𝒄𝒖̉𝒂 𝑩𝒂́𝒄 𝑯𝒐̂̀ 𝒗𝒊̃ đ𝒂̣𝒊, 𝒔𝒂̆̃𝒏 𝒔𝒂̀𝒏𝒈 !</h2>
-</p>
-<a href="https://www.youtube.com/c/NguyenDucQuan" target="_blank">
-  <img src="images/VietNammuonnam.PNG" width="1200" alt="Vì lý tưởng vĩ đại của Bác Hồ" />
-</a>
+
+
+
