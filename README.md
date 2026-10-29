@@ -1,11 +1,10 @@
 <h1>👋 Hi there, I'm Trương Anh Tài!</h1>
-
 <p> I'm a Software Engineering student at <b>
 University of Transport in Ho Chi Minh City</b> 🎓</p>
 
 <hr>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p>
  
@@ -18,7 +17,6 @@ University of Transport in Ho Chi Minh City</b> 🎓</p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <br/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -30,7 +28,7 @@ University of Transport in Ho Chi Minh City</b> 🎓</p>
 
 <br>
 
-## 📌 Featured Projects
+## Featured Projects
 
 <p>
   <a href="https://github.com/truongtai145/Hospital-Management-">
@@ -52,7 +50,7 @@ University of Transport in Ho Chi Minh City</b> 🎓</p>
 
 <br>
 
-## 📊 My GitHub contributions summary
+## My GitHub contributions summary
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=truongtai145&theme=github-dark-blue&hide_border=true" />
@@ -69,14 +67,14 @@ University of Transport in Ho Chi Minh City</b> 🎓</p>
 
 <br>
 
-## 🔔 Contact Me
+## Contact Me
 
 <p align="center">
   <a href="https://www.facebook.com/truong.anh.tai.468994" target="_blank">
     <img width="70" height="70" src="images/facebook.png" alt="facebook" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/TEN_INSTAGRAM_CUA_BAN/" target="_blank">
+  <a href="https://www.instagram.com/taitruong6488/" target="_blank">
     <img width="70" height="70" src="images/instagram.png" alt="instagram" />
   </a>
   &nbsp;&nbsp;
