@@ -41,10 +41,10 @@ University of Transport in Ho Chi Minh City</b> 🎓</p>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
       </p>
-      <p>
+      <!-- <p>
         <img src="https://img.shields.io/github/stars/truongtai145/Hospital-Management-?style=flat-square&logo=github&color=30363d" />
         <img src="https://img.shields.io/github/forks/truongtai145/Hospital-Management-?style=flat-square&logo=github&color=30363d" />
-      </p>
+      </p> -->
     </td>
     <td width="33%" valign="top">
       <h3>☸️ <a href="https://github.com/truongtai145/DTDM">K8s Counter Demo</a></h3>
@@ -55,10 +55,10 @@ University of Transport in Ho Chi Minh City</b> 🎓</p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
       </p>
-      <p>
+      <!-- <p>
         <img src="https://img.shields.io/github/stars/truongtai145/DTDM?style=flat-square&logo=github&color=30363d" />
         <img src="https://img.shields.io/github/forks/truongtai145/DTDM?style=flat-square&logo=github&color=30363d" />
-      </p>
+      </p> -->
     </td>
     <td width="33%" valign="top">
       <h3>📊 <a href="https://github.com/truongtai145/DACK-KTDL">MAGIC Data Mining</a></h3>
@@ -69,10 +69,10 @@ University of Transport in Ho Chi Minh City</b> 🎓</p>
         <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
         <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
       </p>
-      <p>
+      <!-- <p>
         <img src="https://img.shields.io/github/stars/truongtai145/DACK-KTDL?style=flat-square&logo=github&color=30363d" />
         <img src="https://img.shields.io/github/forks/truongtai145/DACK-KTDL?style=flat-square&logo=github&color=30363d" />
-      </p>
+      </p> -->
     </td>
   </tr>
 </table>
@@ -86,14 +86,13 @@ University of Transport in Ho Chi Minh City</b> 🎓</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=truongtai145&theme=github-dark-blue&hide_border=true" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truongtai145&layout=compact&langs_count=6&theme=github_dark&hide_border=true" />
-</p>
+
 <br>
 
 
 
 ## Contact Me
+
 
 <p align="center">
   <a href="https://www.facebook.com/truong.anh.tai.468994" target="_blank">
@@ -104,7 +103,11 @@ University of Transport in Ho Chi Minh City</b> 🎓</p>
     <img width="70" height="70" src="images/instagram.png" alt="instagram" />
   </a>
   &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/t%C3%A0i-tr%C6%B0%C6%A1ng-074a77355/" target="_blank">
+    <img width="70" height="70" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="linkedin" />
+  </a>
+  &nbsp;&nbsp;
   <a href="mailto:truonganhtai1452004@gmail.com">
-    <img width="70" height="80" src="images/gmail.png" alt="email" />
+    <img width="70" height="70" src="images/gmail.png" alt="email" />
   </a>
 </p>
