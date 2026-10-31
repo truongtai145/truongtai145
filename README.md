@@ -21,7 +21,6 @@ University of Transport in Ho Chi Minh City</b> 🎓</p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
@@ -69,10 +68,7 @@ University of Transport in Ho Chi Minh City</b> 🎓</p>
         <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
         <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
       </p>
-      <!-- <p>
-        <img src="https://img.shields.io/github/stars/truongtai145/DACK-KTDL?style=flat-square&logo=github&color=30363d" />
-        <img src="https://img.shields.io/github/forks/truongtai145/DACK-KTDL?style=flat-square&logo=github&color=30363d" />
-      </p> -->
+      
     </td>
   </tr>
 </table>
