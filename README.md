@@ -68,8 +68,8 @@ University of Transport in Ho Chi Minh City</b> 🎓</p>
         <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
         <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
       </p>
-      
     </td>
+   
   </tr>
 </table>
 <p align="right"><a href="https://github.com/truongtai145?tab=repositories">View all repositories →</a></p>
