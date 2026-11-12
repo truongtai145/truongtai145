@@ -1,8 +1,13 @@
 <h1>👋 Hi there, I'm Trương Anh Tài!</h1>
-<p> I'm a Software Engineering student at <b>
-University of Transport in Ho Chi Minh City</b> 🎓</p>
+<p>I'm a Software Engineering student at <b>University of Transport in Ho Chi Minh City</b> 🎓</p>
 
-<hr>
+<p>
+  Backend developer building <b>RESTful APIs</b> with <b>PHP/Laravel and Node.js</b>, backed by <b>MySQL and PostgreSQL</b>.<br><br>
+  🔐 JWT authentication and role-based access, tested with Postman<br>
+  🏥 Built the API of a hospital management system: appointments, medical records, VNPAY payments<br>
+  🐳 Git and Docker for version control and deployment<br><br>
+  🎯 Looking for a <b>Backend internship</b>.
+</p>
 
 ## Tech Stack
 
@@ -28,14 +33,14 @@ University of Transport in Ho Chi Minh City</b> 🎓</p>
 </p>
 
 <h3>Tools &amp; Others</h3>
-<>
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/RESTful_API-1B5E7B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-
 </p>
+
 ## Featured Projects
 
 <table>
