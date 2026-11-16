@@ -3,10 +3,10 @@
 
 <p>
   Backend developer building <b>RESTful APIs</b> with <b>PHP/Laravel and Node.js</b>, backed by <b>MySQL and PostgreSQL</b>.<br><br>
-  🔐 JWT authentication and role-based access, tested with Postman<br>
-  🏥 Built the API of a hospital management system: appointments, medical records, VNPAY payments<br>
-  🐳 Git and Docker for version control and deployment<br><br>
-  🎯 Looking for a <b>Backend internship</b>.
+   JWT authentication and role-based access, tested with Postman<br>
+   Built the API of a hospital management system: appointments, medical records, VNPAY payments<br>
+   Git and Docker for version control and deployment<br><br>
+   Looking for a <b>Backend internship</b>.
 </p>
 
 ## Tech Stack
